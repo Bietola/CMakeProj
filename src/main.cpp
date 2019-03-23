@@ -3,7 +3,7 @@
 #include "utils.h"
 
 int main() {
-    std::cout << greet("world") << std::endl;
+    std::cout << greet("word") << std::endl;
 
     return 0;
 }
